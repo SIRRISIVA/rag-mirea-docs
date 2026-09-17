@@ -1,0 +1,15 @@
+# venv
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# данные и кэш (не коммитим: качаются с сайта МИРЭА, кэш пересчитывается)
+data/
+*.npy
